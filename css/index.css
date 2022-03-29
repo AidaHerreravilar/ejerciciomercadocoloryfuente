@@ -1,0 +1,38 @@
+h1 {
+  color: red;
+  font-size: 35px;
+  text-align: center;
+}
+p {
+  color: blue;
+  font-size: 30px;
+}
+h2 {
+  color: blue;
+  font-size: yellowgreen;
+}
+
+h6 {
+  color: blue;
+  font-size: 15px;
+}
+
+h3 {
+  cursiva-negrita
+  font-weight: bold;
+  font-style: italic;
+  }
+
+  p {
+  color: blue;
+}
+div {
+  background-color: turquoise;
+  border: 1px solid blue;
+}
+.div-especial {
+  background-color: blue;
+  border: 5px solid yellowgreen;
+  padding: 50%;
+  margin: 10px;
+}
